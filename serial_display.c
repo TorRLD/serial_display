@@ -285,20 +285,20 @@ int main() {
             flag_botaoA = false;
             if (led_verde_state) {
                 strcpy(last_led_message, "LED Verde Ligado");
-                printf("Botao A pressionado: LED Verde Ligado\n");
+                printf("Bot A press: LED Verde Ligado\n");
             } else {
                 strcpy(last_led_message, "LED Verde Desligado");
-                printf("Botao A pressionado: LED Verde Desligado\n");
+                printf("Bot A press: LED Verde Desligado\n");
             }
         }
         if (flag_botaoB) {
             flag_botaoB = false;
             if (led_azul_state) {
                 strcpy(last_led_message, "LED Azul Ligado");
-                printf("Botao B pressionado: LED Azul Ligado\n");
+                printf("Bot B press: LED Azul Ligado\n");
             } else {
                 strcpy(last_led_message, "LED Azul Desligado");
-                printf("Botao B pressionado: LED Azul Desligado\n");
+                printf("Bot B press: LED Azul Desligado\n");
             }
         }
         
