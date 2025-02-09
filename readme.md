@@ -35,16 +35,26 @@ git clone https://github.com/TorRLD/serial_display.git
 
 - **Raspberry Pi Pico W**
 - **Display OLED SSD1306 (I2C)**
+
   - SDA: GPIO14
   - SCL: GPIO15
 - **Matriz de LEDs WS2812 (5×5 – 25 LEDs)**
+
   - Pino de dados: GPIO7
 - **LED RGB**
+
   - Canal Verde: GPIO13
   - Canal Azul: GPIO12
 - **Botões Push**
+
   - Botão A: GPIO5 (controle do LED Verde)
   - Botão B: GPIO6 (controle do LED Azul)
+
+  ### Esquema de ligações
+
+  ![1739116599001](image/readme/1739116599001.png)
+
+    Fonte: Autor.
 
 ## Ambiente de Desenvolvimento
 
