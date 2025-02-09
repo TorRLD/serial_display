@@ -41,7 +41,7 @@
 #define NUM_PIXELS            25
 
 // Parâmetros para debounce
-#define ATRASO_DEBOUNCE_US    200000   // 50 ms
+#define ATRASO_DEBOUNCE_US    200000   // 200 ms
 
 // Cores para os WS2812 (quando um dígito é exibido)
 #define COR_WS2812_R          0
