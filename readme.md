@@ -49,10 +49,12 @@ Este projeto demonstra a integração de múltiplas interfaces em um Raspberry P
 
 ## Estrutura do Projeto
 
-- **main.c:**Contém o código principal que integra a leitura serial, manipulação dos botões, atualização do display OLED e controle da matriz WS2812.
-- **ws2812.pio.h:**Biblioteca para controle dos LEDs WS2812 via PIO.
-- **ssd1306.h** e **font.h:**
-  Bibliotecas para gerenciamento do display OLED e renderização de fontes.
+- **main.c:**
+- Contém o código principal que integra a leitura serial, manipulação dos botões, atualização do display OLED e controle da matriz WS2812.
+- **ws2812.pio.h:**
+- Biblioteca para controle dos LEDs WS2812 via PIO.
+- **ssd1306.h e font.h:**
+- Bibliotecas para gerenciamento do display OLED e renderização de fontes.
 
 ## Como Utilizar
 
