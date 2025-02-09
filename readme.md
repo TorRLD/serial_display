@@ -1,4 +1,4 @@
-# Pico W Multi-Interface Integration
+# Utilizando I2C e UART com a BitDogLab
 
 ### por: Heitor Lemos
 
