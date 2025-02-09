@@ -72,7 +72,7 @@ git clone https://github.com/TorRLD/serial_display.git
 
 ## Estrutura do Projeto
 
-- **main.c:**
+- **serial_display.c:**
 - Contém o código principal que integra a leitura serial, manipulação dos botões, atualização do display OLED e controle da matriz WS2812.
 - **ws2812.pio.h:**
 - Biblioteca para controle dos LEDs WS2812 via PIO.
