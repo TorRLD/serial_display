@@ -1,5 +1,9 @@
 # Utilizando I2C e UART com a BitDogLab
 
+### Link para o vídeo:
+
+[Vídeo no Youtube](https://www.youtube.com/watch?v=IWikM5EPRlU)
+
 ### por: Heitor Lemos
 
 Este projeto demonstra a integração de múltiplas interfaces em um Raspberry Pi Pico W (na plataforma BITDOGLAB), combinando comunicação serial, display OLED SSD1306, matriz de LEDs WS2812 (5×5) e botões para controle de um LED RGB. O objetivo é oferecer uma aplicação interativa que responde tanto à entrada serial quanto a eventos físicos, exemplificando a versatilidade do Pico W.
