@@ -1,7 +1,4 @@
 // font.h
-// Fontes para: Nothing, dígitos (0–9), letras maiúsculas (A–Z) e letras minúsculas (a–z).
-// Cada caractere é representado por 8 bytes, onde cada byte representa uma coluna (de cima para baixo).
-// As letras minúsculas foram transpostas (de linha para coluna) e depois invertidas para que fiquem com a mesma orientação que os demais.
 
 static uint8_t font[] = {
   // Grupo 0: "Nothing" (caractere vazio)
